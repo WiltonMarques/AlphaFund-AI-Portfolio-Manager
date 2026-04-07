@@ -32,3 +32,8 @@ O ecossistema é dividido em 5 módulos complementares:
 * **Data Science & ML:** Pandas, NumPy, Scikit-Learn
 * **Otimização Matemática:** SciPy
 * **Dataviz & Interface:** Streamlit, Plotly
+  
+https://github.com/WiltonMarques/AlphaFund-AI-Portfolio-Manager
+  
+![dashboard_alphafund_v1](https://github.com/user-attachments/assets/1f2555c9-54ad-48b0-852f-8137ba46976e)
+![dashboard_alphafund_v2](https://github.com/user-attachments/assets/d2cbe547-a3bd-49ac-b0d3-3f45365a4f72)
